@@ -1,4 +1,4 @@
-import ItCompany from '../assets/IT-Company.webp'
+import ItCompany from '../assets/IT-Company.png'
 import Pokepalette from '../assets/pokepalette.png'
 
 export const projects = [
@@ -24,6 +24,6 @@ export const projects = [
             "React Icons",
             "React Router",
           ],
-        url: "https://pokepalette-sand.vercel.app/"
+        url: "https://pokepalettecolors.vercel.app/"
     },
 ];
